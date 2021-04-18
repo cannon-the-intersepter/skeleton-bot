@@ -1,1 +1,1 @@
-# skeleton-bot
+# skeleton-bot is now in v1 
